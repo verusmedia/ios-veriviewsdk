@@ -21,7 +21,7 @@ end
 <string>We need your camera for VeriView™</string>
 ```
 
-3.  Set your controller as a **VeriViewController'** and as **VeriViewDelegate**, don't forget to import the library:
+3.  Set your controller as a **VeriViewController** and as **VeriViewDelegate**, don't forget to import the library:
 
 ```swift
 import VideoCaptureSDK
