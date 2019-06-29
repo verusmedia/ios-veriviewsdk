@@ -11,7 +11,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 target 'YourApp' do
     use_frameworks!
-    pod 'VeriViewSDK', '0.1.0-beta.2'
+    pod 'VeriViewSDK', '0.1.0-beta.3'
 end
 ```
 
